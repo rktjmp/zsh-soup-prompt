@@ -2,6 +2,8 @@
 
 A prompt for ZSH.
 
-## Features
+This prompt is `zgen` compatible, and so its probably also `antigen` compatible.
+
+`zgen load rktjmp/zsh-soup-prompt`
 
 ![](screenshot.png)
